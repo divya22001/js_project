@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>REGISTER FOR A AUDITIONS</title>
+    </head>
+<body>
+    <center>
+        <h1>SUPER SINGER AUDITION🎤</h1>
+        <h2> Junior level | Senior level | Kids</h2>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde consequatur harum enim? Voluptatum ex nulla, architecto neque dicta ipsum enim. ipsum dolor sit, amet consectetur adipisicing elit. Natus, obcaecati vero officia dolorem laboriosam eaque, reiciendis recusandae inventore molestias quasi aliquid. Maiores eius corporis laboriosam placeat saepe? Commodi, totam ex!</p>
+    </center>
+<hr>
+<center>
+    <h1>Registration Form</h1>
+    <form>
+        <table>
+            <tr>
+                <td>Name<input type="text" placeholder="Enter your name"></td>
+            </tr>
+            <tr>
+                <td>Age<input type="number" placeholder="Enter your age"></td>
+            </tr>
+            <tr>
+                <td>Gender</td>
+                <td><input type="radio" name = "Gender"> Male
+                <td><input type="radio" name = "Gender"> Female
+                </td>
+            </tr>
+            <tr>
+                <td>Email</td>
+                <td><input type="email"></td>
+            </tr>
+            <tr>
+                <td>Select your District</td>
+                <td>
+                    <select>
+                        <option>Chennai</option>
+                        <option>Coimbatore</option>
+                        <option>Trichy</option>
+                        <option>Tiruvannamalai</option>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td>Aadhar No</td>
+                <td><input type ="number"> </td>
+            </tr>
+            <tr>
+                <td><input type ="reset"></td>
+                <td><input type ="submit"></td>
+            </tr>
+            
+        </table>
+    </form>
+</center>
+<hr>
+<center>
+    <p>
+        <a href="index1.html">Home</a>|<a href = "https://www.instagram.com/supersingerofficial/?hl=en">INSTAGRAM</a>|<a href = "https://www.youtube.com/watch?v=t_UDZIsrlg8">YOUTUBE</a>
+    </p>
+</center>
+
+</body>
+</html>
